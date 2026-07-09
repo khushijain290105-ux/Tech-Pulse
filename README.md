@@ -1,2 +1,2 @@
 My first GitHub.
-Author: Khushi Jains
+Author: Khushi Jain
