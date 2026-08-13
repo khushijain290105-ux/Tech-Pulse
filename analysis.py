@@ -68,3 +68,30 @@ print("\n===== City-wise Job Demand =====")
 city_counts = df["Location"].value_counts()
 
 print(city_counts)
+
+# ==============================
+# City-wise Job Demand Chart
+# ==============================
+
+print("\n===== City-wise Job Demand =====")
+
+city_counts = df["Location"].value_counts()
+
+print(city_counts)
+
+# Create chart
+import matplotlib.pyplot as plt
+
+plt.figure(figsize=(8, 5))
+
+plt.bar(city_counts.index, city_counts.values)
+
+plt.title("City-wise Job Demand")
+plt.xlabel("City")
+plt.ylabel("Number of Jobs")
+
+plt.xticks(rotation=45)
+
+plt.tight_layout()
+
+plt.show()
