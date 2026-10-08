@@ -1,6 +1,61 @@
 Job Title,Company,Location,Skills,Experience,Salary,Job Type,Industry
-Data Analyst,TCS,Delhi,"Python,SQL,Excel",2,600000,Full-Time,IT
+Data Analyst,TCS,Delhi,"Python,SQL,Excel,Power BI",1,600000,Full-Time,IT
+Data Analyst,Infosys,Bangalore,"Python,SQL,Tableau,Excel",2,750000,Full-Time,IT
+Data Analyst,Wipro,Hyderabad,"SQL,Excel,Power BI",2,680000,Full-Time,IT
+Data Analyst,Accenture,Pune,"Python,SQL,Power BI",3,900000,Full-Time,Consulting
+Data Analyst,Deloitte,Mumbai,"SQL,Tableau,Excel",2,850000,Full-Time,Consulting
+Data Analyst,HCLTech,Noida,"Python,SQL,Excel",1,620000,Full-Time,IT
+Data Analyst,Capgemini,Noida,"SQL,Power BI,Excel",3,880000,Full-Time,IT
+Data Analyst,IBM,Bangalore,"Python,SQL,Tableau",4,1100000,Full-Time,IT
+Data Analyst,Genpact,Gurgaon,"SQL,Excel,Power BI",2,700000,Full-Time,BPO
+Data Analyst,Amazon,Bangalore,"Python,SQL,Excel,Tableau",3,1200000,Full-Time,E-Commerce
 Data Scientist,Infosys,Bangalore,"Python,Machine Learning,SQL",3,1200000,Full-Time,IT
-Software Engineer,Wipro,Hyderabad,"Java,SQL,Git",1,700000,Full-Time,IT
+Data Scientist,TCS,Mumbai,"Python,ML,SQL,TensorFlow",4,1450000,Full-Time,IT
+Data Scientist,Wipro,Bangalore,"Python,Machine Learning,Power BI",2,1050000,Full-Time,IT
+Data Scientist,Accenture,Pune,"Python,ML,SQL,Tableau",5,1650000,Full-Time,Consulting
+Data Scientist,IBM,Bangalore,"Python,ML,Spark,SQL",4,1800000,Full-Time,IT
+Data Scientist,Amazon,Hyderabad,"Python,ML,SQL,AWS",5,2100000,Full-Time,E-Commerce
+Data Scientist,Deloitte,Delhi,"Python,ML,SQL,Tableau",3,1350000,Full-Time,Consulting
+Data Scientist,Cognizant,Chennai,"Python,SQL,Machine Learning",2,1000000,Full-Time,IT
+Data Scientist,Fractal Analytics,Mumbai,"Python,ML,SQL,Power BI",4,1750000,Full-Time,Analytics
+Data Scientist,Mu Sigma,Bangalore,"Python,SQL,Machine Learning",1,850000,Full-Time,Analytics
 Business Analyst,Accenture,Pune,"Excel,SQL,Power BI",2,800000,Full-Time,Consulting
+Business Analyst,Deloitte,Mumbai,"Excel,SQL,Tableau",3,950000,Full-Time,Consulting
+Business Analyst,TCS,Delhi,"Excel,SQL,Power BI",2,720000,Full-Time,IT
+Business Analyst,Infosys,Bangalore,"SQL,Excel,Power BI",3,900000,Full-Time,IT
+Business Analyst,Cognizant,Chennai,"Excel,SQL,Tableau",4,1050000,Full-Time,IT
+Business Analyst,Capgemini,Noida,"Excel,SQL,Power BI",1,650000,Full-Time,IT
+Business Analyst,HCLTech,Noida,"SQL,Excel,Tableau",2,700000,Full-Time,IT
+Business Analyst,Genpact,Gurgaon,"Excel,SQL,Power BI",3,820000,Full-Time,BPO
 Data Engineer,Capgemini,Noida,"Python,SQL,Spark",4,1400000,Full-Time,IT
+Data Engineer,TCS,Bangalore,"Python,SQL,Hadoop,Spark",3,1250000,Full-Time,IT
+Data Engineer,Infosys,Pune,"Python,SQL,AWS,Spark",4,1500000,Full-Time,IT
+Data Engineer,Wipro,Hyderabad,"Python,SQL,Spark",2,1000000,Full-Time,IT
+Data Engineer,Amazon,Bangalore,"Python,SQL,AWS,Spark",5,2200000,Full-Time,E-Commerce
+Data Engineer,IBM,Bangalore,"Python,SQL,Hadoop,Spark",4,1750000,Full-Time,IT
+Data Engineer,Accenture,Mumbai,"Python,SQL,AWS",3,1300000,Full-Time,Consulting
+Data Engineer,Cognizant,Chennai,"Python,SQL,Spark",2,950000,Full-Time,IT
+Software Engineer,Wipro,Hyderabad,"Java,SQL,Git",1,700000,Full-Time,IT
+Software Engineer,TCS,Delhi,"Java,Python,SQL,Git",2,850000,Full-Time,IT
+Software Engineer,Infosys,Bangalore,"Java,Python,Git,AWS",3,1100000,Full-Time,IT
+Software Engineer,HCLTech,Noida,"Java,SQL,Git",2,800000,Full-Time,IT
+Software Engineer,Accenture,Pune,"Java,Python,Git,AWS",4,1250000,Full-Time,Consulting
+Software Engineer,IBM,Bangalore,"Java,Python,SQL,Git",3,1350000,Full-Time,IT
+Software Engineer,Amazon,Hyderabad,"Python,Java,AWS,Git",4,1900000,Full-Time,E-Commerce
+Software Engineer,Cognizant,Chennai,"Java,SQL,Git",2,820000,Full-Time,IT
+ML Engineer,Amazon,Bangalore,"Python,Machine Learning,AWS",4,1900000,Full-Time,E-Commerce
+ML Engineer,IBM,Bangalore,"Python,TensorFlow,SQL",3,1600000,Full-Time,IT
+ML Engineer,Accenture,Pune,"Python,ML,TensorFlow",3,1450000,Full-Time,Consulting
+ML Engineer,TCS,Mumbai,"Python,ML,SQL",2,1150000,Full-Time,IT
+ML Engineer,Infosys,Bangalore,"Python,ML,AWS",4,1550000,Full-Time,IT
+ML Engineer,Wipro,Hyderabad,"Python,ML,SQL",2,1050000,Full-Time,IT
+BI Analyst,Deloitte,Mumbai,"Power BI,SQL,Excel",3,950000,Full-Time,Consulting
+BI Analyst,TCS,Delhi,"Power BI,SQL,Excel",2,750000,Full-Time,IT
+BI Analyst,Infosys,Bangalore,"Power BI,SQL,Tableau",3,900000,Full-Time,IT
+BI Analyst,Capgemini,Noida,"Power BI,SQL,Excel",2,820000,Full-Time,IT
+BI Analyst,Accenture,Pune,"Power BI,SQL,Tableau",4,1100000,Full-Time,Consulting
+BI Analyst,Genpact,Gurgaon,"Power BI,Excel,SQL",1,650000,Full-Time,BPO
+Product Analyst,Amazon,Bangalore,"SQL,Python,Excel,Tableau",3,1250000,Full-Time,E-Commerce
+Product Analyst,Flipkart,Bangalore,"SQL,Python,Power BI",2,1000000,Full-Time,E-Commerce
+Product Analyst,Paytm,Noida,"SQL,Excel,Power BI",2,850000,Full-Time,FinTech
+Product Analyst,Deloitte,Mumbai,"SQL,Python,Tableau",4,1200000,Full-Time,Consulting
